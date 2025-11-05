@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SS First Android GUI</string>
+    <string name="btn1_str">SS First Button</string>
+    <string name="btn2_str">SS Second Button</string>
+    <string name="set_str">opening user setting</string>
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>
